@@ -1,7 +1,7 @@
 -
 						How to make learning fun and effective
 
--
+
 <mark style="background: #00ced1!important">`common`</mark>
 
 1. **GIT** - you should love it. When you get familiar with ideas and logic, Git will inspire you. <br>Try to do it as earlier as possible.
